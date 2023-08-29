@@ -14,3 +14,5 @@ make clean
 make DRINK=1
 ./main
 ```
+
+thanks
